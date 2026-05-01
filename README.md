@@ -35,4 +35,4 @@ This dashboard helps understand sales trends and supports decision-making.
 ## 📌 Author
 
 Teju K  
-
+Aspiring Data Analyst  
