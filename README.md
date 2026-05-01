@@ -12,13 +12,13 @@ This project is a Power BI dashboard built using Superstore dataset to analyze s
 * Customer Sales Details
 
 ## 🛠 Tools Used
-
+![Dashboard](dashboard.png)
 * Power BI
 * CSV Dataset
 
 ## 📷 Dashboard Preview
 
-(Add screenshot here)
+
 
 ## 📁 Files
 
