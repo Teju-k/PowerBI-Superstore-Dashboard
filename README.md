@@ -2,8 +2,6 @@
 
 🚀 Built using Power BI to analyze retail sales data
 
-![Dashboard](dashboard.png)
-
 ## 📊 Project Overview
 This project is a Power BI dashboard built using Superstore dataset to analyze sales performance.
 
